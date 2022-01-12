@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "country": "Turcia",
+        "capital": "Ankara"
+    },
+    {
+        "id": 2,
+        "country": "Azerbaidjan",
+        "capital": "Baku"
+    },
+    {
+        "id": 3,
+        "country": "Macedonia",
+        "capital": "Skopje"
+    },
+    {
+        "id": 4,
+        "country": "Marea Britanie",
+        "capital": "Londra"
+    },
+    {
+        "id": 5,
+        "country": "Muntenegru",
+        "capital": "Podgorita"
+    },
+    {
+        "id": 6,
+        "country": "Italia",
+        "capital": "Roma"
+    },
+    {
+        "id": 7,
+        "country": "Rusia",
+        "capital": "Moscova"
+    },
+    {
+        "id": 8,
+        "country": "Germania",
+        "capital": "Berlin"
+    },
+    {
+        "id": 9,
+        "country": "Ucraina",
+        "capital": "Kiev"
+    },
+    {
+        "id": 10,
+        "country": "Georgia",
+        "capital": "Tbilisi"
+    },
+    {
+        "id": 11,
+        "country": "Croatia",
+        "capital": "Zagreb"
+    },
+    {
+        "id": 12,
+        "country": "Spania",
+        "capital": "Madrid"
+    },
+    {
+        "id": 13,
+        "country": "Ungaria",
+        "capital": "Budapesta"
+    },
+    {
+        "id": 14,
+        "country": "Polonia",
+        "capital": "Varșovia"
+    },
+    {
+        "id": 15,
+        "country": "Cehia",
+        "capital": "Praga"
+    },
+    {
+        "id": 16,
+        "country": "Bulgaria",
+        "capital": "Sofia"
+    },
+    {
+        "id": 17,
+        "country": "Austria",
+        "capital": "Viena"
+    },
+    {
+        "id": 18,
+        "country": "Lituania",
+        "capital": "Vilnius"
+    },
+    {
+        "id": 19,
+        "country": "Slovacia",
+        "capital": "Bratislava"
+    },
+    {
+        "id": 20,
+        "country": "Serbia",
+        "capital": "Belgrad"
+    },
+    {
+        "id": 21,
+        "country": "Letonia",
+        "capital": "Riga"
+    },
+    {
+        "id": 22,
+        "country": "Belarus",
+        "capital": "Minsk"
+    },
+    {
+        "id": 23,
+        "country": "Norvegia",
+        "capital": "Oslo"
+    },
+    {
+        "id": 24,
+        "country": "Slovenia",
+        "capital": "Ljubljana"
+    },
+    {
+        "id": 25,
+        "country": "Islanda",
+        "capital": "Reykjavik"
+    },
+    {
+        "id": 26,
+        "country": "Romania",
+        "capital": "Bucuresti"
+    },
+    {
+        "id": 27,
+        "country": "Armenia",
+        "capital": "Erevan"
+    },
+    {
+        "id": 28,
+        "country": "Olanda",
+        "capital": "Amsterdam"
+    },
+    {
+        "id": 29,
+        "country": "Suedia",
+        "capital": "Stockholm"
+    },
+    {
+        "id": 30,
+        "country": "Finlanda",
+        "capital": "Helsinki"
+    },
+    {
+        "id": 31,
+        "country": "Belgia",
+        "capital": "Bruxelles"
+    },
+    {
+        "id": 32,
+        "country": "Estonia",
+        "capital": "Tallinn"
+    },
+    {
+        "id": 33,
+        "country": "Bosnia și Herzegovina",
+        "capital": "Sarajevo"
+    },
+    {
+        "id": 34,
+        "country": "Moldova",
+        "capital": "Chisinau"
+    },
+    {
+        "id": 35,
+        "country": "Irlanda",
+        "capital": "Dublin"
+    },
+    {
+        "id": 36,
+        "country": "Franta",
+        "capital": "Paris"
+    },
+    {
+        "id": 37,
+        "country": "Danemarca",
+        "capital": "Copenhaga"
+    },
+    {
+        "id": 38,
+        "country": "Portugalia",
+        "capital": "Lisabona"
+    },
+    {
+        "id": 39,
+        "country": "Elvetia",
+        "capital": "Berna"
+    },
+    {
+        "id": 40,
+        "country": "Albania",
+        "capital": "Tirana"
+    },
+    {
+        "id": 41,
+        "country": "Grecia",
+        "capital": "Atena"
+    },
+    {
+        "id": 42,
+        "country": "Liechtenstein",
+        "capital": "Vaduz"
+    },
+    {
+        "id": 43,
+        "country": "San Marino",
+        "capital": "San Marino"
+    },
+    {
+        "id": 44,
+        "country": "Monaco",
+        "capital": "Monaco"
+    },
+    {
+        "id": 45,
+        "country": "Malta",
+        "capital": "Valletta"
+    },
+    {
+        "id": 46,
+        "country": "Vatican",
+        "capital": "Vatican"
+    }
+]
