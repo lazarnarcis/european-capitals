@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tari-europa/static/js/main.b09a00d5.js",
+    "index.html": "/tari-europa/index.html",
+    "main.b09a00d5.js.map": "/tari-europa/static/js/main.b09a00d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b09a00d5.js"
+  ]
+}
