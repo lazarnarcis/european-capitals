@@ -1,6 +1,6 @@
 # tari-europa
 
-This is an project with countries and capitals from Europe.
+This is a project with European countries and capitals.
 
 ## Programming Languages
 
