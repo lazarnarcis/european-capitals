@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/european-capitals/static/js/main.40f07ca1.js",
+    "main.css": "/european-capitals/static/css/main.ec5b272a.css",
+    "main.js": "/european-capitals/static/js/main.7b8df976.js",
     "index.html": "/european-capitals/index.html",
-    "main.40f07ca1.js.map": "/european-capitals/static/js/main.40f07ca1.js.map"
+    "main.ec5b272a.css.map": "/european-capitals/static/css/main.ec5b272a.css.map",
+    "main.7b8df976.js.map": "/european-capitals/static/js/main.7b8df976.js.map"
   },
   "entrypoints": [
-    "static/js/main.40f07ca1.js"
+    "static/css/main.ec5b272a.css",
+    "static/js/main.7b8df976.js"
   ]
 }
