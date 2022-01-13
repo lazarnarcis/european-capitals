@@ -1,4 +1,4 @@
-# tari-europa
+# european-capitals
 
 This is a project with European countries and capitals.
 
@@ -6,7 +6,7 @@ This is a project with European countries and capitals.
 
 The programming languages used for this project are: <b>react</b> and <b>sass</b>.
 
-Link to app: https://lazarnarcis.github.io/tari-europa
+Link to app: https://lazarnarcis.github.io/european-capitals
 
 <hr>
 

@@ -1,6 +1,6 @@
 {
-  "homepage": "http://lazarnarcis.github.io/tari-europa",
-  "name": "tari-europene",
+  "homepage": "http://lazarnarcis.github.io/european-capitals",
+  "name": "european-capitals",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
