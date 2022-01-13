@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react"
 import countries from "./Countries.json"
 import ItemCountry from "./ItemCountry"
+import "./App.scss"
 
 export default function App() {
     const generateRandomCountry = (arrayLength) => {
@@ -32,13 +33,13 @@ export default function App() {
     }, [mistake])
 
     return (
-        <>
-            <h1>Tari si capitale din Europa</h1>
+        <div className="App">
+            <h1>Capitale din Europa</h1>
             <ItemCountry item={countries[generateRandomCountry(countries.length)]} score={score} 
             setScore={setScore} mistake={mistake} setMistake={setMistake} setErr={setErr} />
-            <p style={{backgroundColor: `${errs ? "black" : null}`, color: "white"}}>{errs}</p>
-            <p>Scorul tau este: {score}</p>
-            <p>Pana acum ai {mistake} greseli!</p>
-        </>
+            <p style={{backgroundColor: `${errs ? "black" : null}`, color: "white"}} className={`${errs ? "err" : ""}`}>{errs}</p>
+            <p>Scor: {score} {score === 1 ? "punct" : "puncte" }</p>
+            <p>Pana acum ai {mistake} {mistake === 1 ? "greseala" : "greseli"}!</p>
+        </div>
     )
 }

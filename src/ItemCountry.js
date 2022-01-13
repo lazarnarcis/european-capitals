@@ -20,9 +20,11 @@ export default function ItemCountry({ item, score, setScore, mistake, setMistake
     }
     return (
         <>
-            <h1>{item.country}</h1>
-            <input type="text" ref={inputRef} onKeyDown={handleKeyDown} placeholder="Introdu capitala aici" />
-            <button onClick={checkCapital}>Verifica</button>
+            <h4>Introdu capitala {item.country} mai jos:</h4>
+            <div className="inputs">
+                <input type="text" ref={inputRef} onKeyDown={handleKeyDown} placeholder="Introdu capitala aici" />
+                <button onClick={checkCapital}>Verifica</button>
+            </div>
         </>
     )
 }
