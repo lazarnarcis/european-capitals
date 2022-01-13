@@ -3,7 +3,7 @@ import countries from "./Countries.json"
 import ItemCountry from "./ItemCountry"
 
 export default function App() {
-    const getRandomElFromArray = (arrayLength) => {
+    const generateRandomCountry = (arrayLength) => {
         return Math.floor(Math.random() * arrayLength);
     }
     const [errs, setErr] = useState("")
@@ -34,7 +34,7 @@ export default function App() {
     return (
         <>
             <h1>Tari si capitale din Europa</h1>
-            <ItemCountry item={countries[getRandomElFromArray(countries.length)]} score={score} 
+            <ItemCountry item={countries[generateRandomCountry(countries.length)]} score={score} 
             setScore={setScore} mistake={mistake} setMistake={setMistake} setErr={setErr} />
             <p style={{backgroundColor: `${errs ? "black" : null}`, color: "white"}}>{errs}</p>
             <p>Scorul tau este: {score}</p>
