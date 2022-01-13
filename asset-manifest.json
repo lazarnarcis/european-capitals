@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tari-europa/static/js/main.b09a00d5.js",
-    "index.html": "/tari-europa/index.html",
-    "main.b09a00d5.js.map": "/tari-europa/static/js/main.b09a00d5.js.map"
+    "main.js": "/european-capitals/static/js/main.40f07ca1.js",
+    "index.html": "/european-capitals/index.html",
+    "main.40f07ca1.js.map": "/european-capitals/static/js/main.40f07ca1.js.map"
   },
   "entrypoints": [
-    "static/js/main.b09a00d5.js"
+    "static/js/main.40f07ca1.js"
   ]
 }
