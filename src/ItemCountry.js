@@ -1,4 +1,5 @@
 import React, { useRef } from "react"
+import "./ItemCountry.scss"
 
 export default function ItemCountry({ item, score, setScore, mistake, setMistake, setErr }) {
     const inputRef = useRef()
