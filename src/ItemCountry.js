@@ -4,7 +4,7 @@ import "./ItemCountry.scss"
 export default function ItemCountry({ item, score, setScore, mistake, setMistake, setErr, setErrColor }) {
     const inputRef = useRef()
     const checkCapital = () => {
-        if (item.capital.toLowerCase() === inputRef.current.value) {
+        if (item.capital.toLowerCase() === inputRef.current.value.toLowerCase()) {
             setErr(`Corect! Capitala ${item.country} este ${item.capital} (+1 pct)`)
             setErrColor(1)
             setScore(Number(score) + Number(1))
